@@ -31,3 +31,5 @@ archer1 = Archer('Robin', 30)
 
 for char in [wizard1, archer1]: 
   char.attack()
+  
+  #This is from ztm python course. 
